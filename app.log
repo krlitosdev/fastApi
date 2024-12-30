@@ -1,0 +1,241 @@
+2024-12-29 14:06:48,143 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 14:06:48,143 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 14:06:48,143 - INFO - Scheduler started
+2024-12-29 14:06:50,816 - INFO - Se ha llamado al endpoint raíz
+2024-12-29 14:06:52,444 - INFO - Se ha llamado al endpoint raíz
+2024-12-29 14:06:58,163 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:06:58 PST)" (scheduled at 2024-12-29 14:06:58.143469-08:00)
+2024-12-29 14:06:58,163 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:06:58,163 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:08 PST)" executed successfully
+2024-12-29 14:07:08,149 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:18 PST)" (scheduled at 2024-12-29 14:07:08.143469-08:00)
+2024-12-29 14:07:08,149 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:08,149 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:18 PST)" executed successfully
+2024-12-29 14:07:18,146 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:28 PST)" (scheduled at 2024-12-29 14:07:18.143469-08:00)
+2024-12-29 14:07:18,146 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:18,147 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:28 PST)" executed successfully
+2024-12-29 14:07:28,143 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:38 PST)" (scheduled at 2024-12-29 14:07:28.143469-08:00)
+2024-12-29 14:07:28,143 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:28,144 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:38 PST)" executed successfully
+2024-12-29 14:07:38,147 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:48 PST)" (scheduled at 2024-12-29 14:07:38.143469-08:00)
+2024-12-29 14:07:38,147 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:38,147 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:48 PST)" executed successfully
+2024-12-29 14:07:48,150 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:58 PST)" (scheduled at 2024-12-29 14:07:48.143469-08:00)
+2024-12-29 14:07:48,150 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:48,150 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:07:58 PST)" executed successfully
+2024-12-29 14:07:58,159 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:08 PST)" (scheduled at 2024-12-29 14:07:58.143469-08:00)
+2024-12-29 14:07:58,159 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:07:58,160 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:08 PST)" executed successfully
+2024-12-29 14:08:08,146 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:18 PST)" (scheduled at 2024-12-29 14:08:08.143469-08:00)
+2024-12-29 14:08:08,146 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:08,146 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:18 PST)" executed successfully
+2024-12-29 14:08:18,148 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:28 PST)" (scheduled at 2024-12-29 14:08:18.143469-08:00)
+2024-12-29 14:08:18,148 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:18,148 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:28 PST)" executed successfully
+2024-12-29 14:08:28,157 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:38 PST)" (scheduled at 2024-12-29 14:08:28.143469-08:00)
+2024-12-29 14:08:28,157 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:28,158 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:38 PST)" executed successfully
+2024-12-29 14:08:38,158 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:48 PST)" (scheduled at 2024-12-29 14:08:38.143469-08:00)
+2024-12-29 14:08:38,158 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:38,158 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:48 PST)" executed successfully
+2024-12-29 14:08:48,149 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:58 PST)" (scheduled at 2024-12-29 14:08:48.143469-08:00)
+2024-12-29 14:08:48,149 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:48,149 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:08:58 PST)" executed successfully
+2024-12-29 14:08:58,156 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:08 PST)" (scheduled at 2024-12-29 14:08:58.143469-08:00)
+2024-12-29 14:08:58,156 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:08:58,156 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:08 PST)" executed successfully
+2024-12-29 14:09:07,666 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 14:09:07,666 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 14:09:07,666 - INFO - Scheduler started
+2024-12-29 14:09:07,666 - INFO - Iniciando la App
+2024-12-29 14:09:17,689 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:17 PST)" (scheduled at 2024-12-29 14:09:17.666356-08:00)
+2024-12-29 14:09:17,690 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:09:17,690 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:27 PST)" executed successfully
+2024-12-29 14:09:27,674 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:37 PST)" (scheduled at 2024-12-29 14:09:27.666356-08:00)
+2024-12-29 14:09:27,674 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:09:27,674 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:37 PST)" executed successfully
+2024-12-29 14:09:37,679 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:47 PST)" (scheduled at 2024-12-29 14:09:37.666356-08:00)
+2024-12-29 14:09:37,679 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:09:37,679 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:47 PST)" executed successfully
+2024-12-29 14:09:47,675 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:57 PST)" (scheduled at 2024-12-29 14:09:47.666356-08:00)
+2024-12-29 14:09:47,675 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:09:47,675 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:09:57 PST)" executed successfully
+2024-12-29 14:09:57,677 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:07 PST)" (scheduled at 2024-12-29 14:09:57.666356-08:00)
+2024-12-29 14:09:57,677 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:09:57,677 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:07 PST)" executed successfully
+2024-12-29 14:10:07,679 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:17 PST)" (scheduled at 2024-12-29 14:10:07.666356-08:00)
+2024-12-29 14:10:07,679 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:07,679 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:17 PST)" executed successfully
+2024-12-29 14:10:17,676 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:27 PST)" (scheduled at 2024-12-29 14:10:17.666356-08:00)
+2024-12-29 14:10:17,676 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:17,676 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:27 PST)" executed successfully
+2024-12-29 14:10:27,677 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:37 PST)" (scheduled at 2024-12-29 14:10:27.666356-08:00)
+2024-12-29 14:10:27,677 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:27,677 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:37 PST)" executed successfully
+2024-12-29 14:10:37,672 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:47 PST)" (scheduled at 2024-12-29 14:10:37.666356-08:00)
+2024-12-29 14:10:37,672 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:37,672 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:47 PST)" executed successfully
+2024-12-29 14:10:47,675 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:57 PST)" (scheduled at 2024-12-29 14:10:47.666356-08:00)
+2024-12-29 14:10:47,675 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:47,675 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:10:57 PST)" executed successfully
+2024-12-29 14:10:57,676 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:07 PST)" (scheduled at 2024-12-29 14:10:57.666356-08:00)
+2024-12-29 14:10:57,676 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:10:57,676 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:07 PST)" executed successfully
+2024-12-29 14:11:07,674 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:17 PST)" (scheduled at 2024-12-29 14:11:07.666356-08:00)
+2024-12-29 14:11:07,674 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:07,674 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:17 PST)" executed successfully
+2024-12-29 14:11:17,676 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:27 PST)" (scheduled at 2024-12-29 14:11:17.666356-08:00)
+2024-12-29 14:11:17,676 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:17,676 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:27 PST)" executed successfully
+2024-12-29 14:11:27,667 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:37 PST)" (scheduled at 2024-12-29 14:11:27.666356-08:00)
+2024-12-29 14:11:27,667 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:27,668 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:37 PST)" executed successfully
+2024-12-29 14:11:37,681 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:47 PST)" (scheduled at 2024-12-29 14:11:37.666356-08:00)
+2024-12-29 14:11:37,681 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:37,681 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:47 PST)" executed successfully
+2024-12-29 14:11:47,674 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:57 PST)" (scheduled at 2024-12-29 14:11:47.666356-08:00)
+2024-12-29 14:11:47,674 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:47,674 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:11:57 PST)" executed successfully
+2024-12-29 14:11:57,675 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:07 PST)" (scheduled at 2024-12-29 14:11:57.666356-08:00)
+2024-12-29 14:11:57,675 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:11:57,675 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:07 PST)" executed successfully
+2024-12-29 14:12:07,676 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:17 PST)" (scheduled at 2024-12-29 14:12:07.666356-08:00)
+2024-12-29 14:12:07,676 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:07,676 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:17 PST)" executed successfully
+2024-12-29 14:12:17,676 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:27 PST)" (scheduled at 2024-12-29 14:12:17.666356-08:00)
+2024-12-29 14:12:17,676 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:17,678 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:27 PST)" executed successfully
+2024-12-29 14:12:27,672 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:37 PST)" (scheduled at 2024-12-29 14:12:27.666356-08:00)
+2024-12-29 14:12:27,672 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:27,672 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:37 PST)" executed successfully
+2024-12-29 14:12:37,677 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:47 PST)" (scheduled at 2024-12-29 14:12:37.666356-08:00)
+2024-12-29 14:12:37,677 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:37,677 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:47 PST)" executed successfully
+2024-12-29 14:12:47,673 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:57 PST)" (scheduled at 2024-12-29 14:12:47.666356-08:00)
+2024-12-29 14:12:47,673 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:47,673 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:12:57 PST)" executed successfully
+2024-12-29 14:12:57,680 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:07 PST)" (scheduled at 2024-12-29 14:12:57.666356-08:00)
+2024-12-29 14:12:57,680 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:12:57,681 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:07 PST)" executed successfully
+2024-12-29 14:13:07,679 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:17 PST)" (scheduled at 2024-12-29 14:13:07.666356-08:00)
+2024-12-29 14:13:07,679 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:13:07,679 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:17 PST)" executed successfully
+2024-12-29 14:13:17,673 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:27 PST)" (scheduled at 2024-12-29 14:13:17.666356-08:00)
+2024-12-29 14:13:17,673 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:13:17,673 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:27 PST)" executed successfully
+2024-12-29 14:13:27,679 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:37 PST)" (scheduled at 2024-12-29 14:13:27.666356-08:00)
+2024-12-29 14:13:27,679 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 14:13:27,680 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 14:13:37 PST)" executed successfully
+2024-12-29 17:44:38,350 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 17:44:38,352 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 17:44:38,352 - INFO - Scheduler started
+2024-12-29 17:44:53,193 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 17:44:53,193 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 17:44:53,193 - INFO - Scheduler started
+2024-12-29 17:44:53,199 - INFO - Iniciando la App
+2024-12-29 17:45:03,200 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:03 PST)" (scheduled at 2024-12-29 17:45:03.193641-08:00)
+2024-12-29 17:45:03,200 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:03,200 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:13 PST)" executed successfully
+2024-12-29 17:45:13,205 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:23 PST)" (scheduled at 2024-12-29 17:45:13.193641-08:00)
+2024-12-29 17:45:13,206 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:13,206 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:23 PST)" executed successfully
+2024-12-29 17:45:23,202 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:33 PST)" (scheduled at 2024-12-29 17:45:23.193641-08:00)
+2024-12-29 17:45:23,202 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:23,203 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:33 PST)" executed successfully
+2024-12-29 17:45:33,201 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:43 PST)" (scheduled at 2024-12-29 17:45:33.193641-08:00)
+2024-12-29 17:45:33,201 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:33,201 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:43 PST)" executed successfully
+2024-12-29 17:45:43,206 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:53 PST)" (scheduled at 2024-12-29 17:45:43.193641-08:00)
+2024-12-29 17:45:43,206 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:43,207 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:45:53 PST)" executed successfully
+2024-12-29 17:45:53,195 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:03 PST)" (scheduled at 2024-12-29 17:45:53.193641-08:00)
+2024-12-29 17:45:53,195 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:45:53,195 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:03 PST)" executed successfully
+2024-12-29 17:46:03,198 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:13 PST)" (scheduled at 2024-12-29 17:46:03.193641-08:00)
+2024-12-29 17:46:03,198 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:46:03,198 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:13 PST)" executed successfully
+2024-12-29 17:46:13,195 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:23 PST)" (scheduled at 2024-12-29 17:46:13.193641-08:00)
+2024-12-29 17:46:13,195 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:46:13,195 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:23 PST)" executed successfully
+2024-12-29 17:46:23,203 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:33 PST)" (scheduled at 2024-12-29 17:46:23.193641-08:00)
+2024-12-29 17:46:23,203 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:46:23,203 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:33 PST)" executed successfully
+2024-12-29 17:46:30,708 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 17:46:30,709 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 17:46:30,709 - INFO - Scheduler started
+2024-12-29 17:46:30,711 - INFO - Iniciando la App
+2024-12-29 17:46:40,714 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:40 PST)" (scheduled at 2024-12-29 17:46:40.708983-08:00)
+2024-12-29 17:46:40,714 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:46:40,714 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:46:50 PST)" executed successfully
+2024-12-29 17:46:50,710 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:00 PST)" (scheduled at 2024-12-29 17:46:50.708983-08:00)
+2024-12-29 17:46:50,710 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:46:50,710 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:00 PST)" executed successfully
+2024-12-29 17:47:00,720 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:10 PST)" (scheduled at 2024-12-29 17:47:00.708983-08:00)
+2024-12-29 17:47:00,720 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:00,720 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:10 PST)" executed successfully
+2024-12-29 17:47:10,716 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:20 PST)" (scheduled at 2024-12-29 17:47:10.708983-08:00)
+2024-12-29 17:47:10,716 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:10,716 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:20 PST)" executed successfully
+2024-12-29 17:47:20,712 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:30 PST)" (scheduled at 2024-12-29 17:47:20.708983-08:00)
+2024-12-29 17:47:20,712 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:20,712 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:30 PST)" executed successfully
+2024-12-29 17:47:30,717 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:40 PST)" (scheduled at 2024-12-29 17:47:30.708983-08:00)
+2024-12-29 17:47:30,717 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:30,717 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:40 PST)" executed successfully
+2024-12-29 17:47:40,722 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:50 PST)" (scheduled at 2024-12-29 17:47:40.708983-08:00)
+2024-12-29 17:47:40,723 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:40,723 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:47:50 PST)" executed successfully
+2024-12-29 17:47:50,941 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:00 PST)" (scheduled at 2024-12-29 17:47:50.708983-08:00)
+2024-12-29 17:47:50,941 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:47:50,954 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:00 PST)" executed successfully
+2024-12-29 17:48:00,718 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:10 PST)" (scheduled at 2024-12-29 17:48:00.708983-08:00)
+2024-12-29 17:48:00,720 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:00,721 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:10 PST)" executed successfully
+2024-12-29 17:48:10,715 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:20 PST)" (scheduled at 2024-12-29 17:48:10.708983-08:00)
+2024-12-29 17:48:10,715 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:10,715 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:20 PST)" executed successfully
+2024-12-29 17:48:20,718 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:30 PST)" (scheduled at 2024-12-29 17:48:20.708983-08:00)
+2024-12-29 17:48:20,718 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:20,718 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:30 PST)" executed successfully
+2024-12-29 17:48:30,722 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:40 PST)" (scheduled at 2024-12-29 17:48:30.708983-08:00)
+2024-12-29 17:48:30,722 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:30,722 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:40 PST)" executed successfully
+2024-12-29 17:48:40,712 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:50 PST)" (scheduled at 2024-12-29 17:48:40.708983-08:00)
+2024-12-29 17:48:40,712 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:40,712 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:48:50 PST)" executed successfully
+2024-12-29 17:48:50,710 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:00 PST)" (scheduled at 2024-12-29 17:48:50.708983-08:00)
+2024-12-29 17:48:50,710 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:48:50,710 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:00 PST)" executed successfully
+2024-12-29 17:49:00,715 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:10 PST)" (scheduled at 2024-12-29 17:49:00.708983-08:00)
+2024-12-29 17:49:00,715 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:00,715 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:10 PST)" executed successfully
+2024-12-29 17:49:10,718 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:20 PST)" (scheduled at 2024-12-29 17:49:10.708983-08:00)
+2024-12-29 17:49:10,719 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:10,719 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:20 PST)" executed successfully
+2024-12-29 17:49:20,719 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:30 PST)" (scheduled at 2024-12-29 17:49:20.708983-08:00)
+2024-12-29 17:49:20,719 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:20,720 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:30 PST)" executed successfully
+2024-12-29 17:49:30,713 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:40 PST)" (scheduled at 2024-12-29 17:49:30.708983-08:00)
+2024-12-29 17:49:30,713 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:30,714 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:40 PST)" executed successfully
+2024-12-29 17:49:40,723 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:50 PST)" (scheduled at 2024-12-29 17:49:40.708983-08:00)
+2024-12-29 17:49:40,723 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:40,723 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:50 PST)" executed successfully
+2024-12-29 17:49:45,351 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 17:49:45,352 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 17:49:45,352 - INFO - Scheduler started
+2024-12-29 17:49:45,355 - INFO - Iniciando la App
+2024-12-29 17:49:55,353 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:49:55 PST)" (scheduled at 2024-12-29 17:49:55.351676-08:00)
+2024-12-29 17:49:55,353 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:49:55,353 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:05 PST)" executed successfully
+2024-12-29 17:50:05,357 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:15 PST)" (scheduled at 2024-12-29 17:50:05.351676-08:00)
+2024-12-29 17:50:05,357 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:50:05,359 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:15 PST)" executed successfully
+2024-12-29 17:50:15,357 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:25 PST)" (scheduled at 2024-12-29 17:50:15.351676-08:00)
+2024-12-29 17:50:15,357 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:50:15,357 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:25 PST)" executed successfully
+2024-12-29 17:50:25,364 - INFO - Running job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:35 PST)" (scheduled at 2024-12-29 17:50:25.351676-08:00)
+2024-12-29 17:50:25,364 - INFO - Ejecutando Tarea en segundo plano
+2024-12-29 17:50:25,364 - INFO - Job "periodic_task (trigger: interval[0:00:10], next run at: 2024-12-29 17:50:35 PST)" executed successfully
+2024-12-29 18:01:47,295 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-29 18:01:47,305 - INFO - Added job "periodic_task" to job store "default"
+2024-12-29 18:01:47,305 - INFO - Scheduler started
+2024-12-29 18:01:47,305 - INFO - Iniciando la App
